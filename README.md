@@ -11,7 +11,7 @@
 
 > 这里是示例站点
 
-- [今日热榜 - https://hot.imsyy.top/](https://daily-hot-one-kappa.vercel.app/#)
+- [今日热榜 - https://hot.saonn.cn/](https://daily-hot-one-kappa.vercel.app/#)
 
 
 ## 部署
